@@ -6,7 +6,7 @@
 ### Linguagem
   JavaScript - VueJS
   
-## Iniciar Game
+## Print
   ![](print.PNG)
 
 ## Project setup
