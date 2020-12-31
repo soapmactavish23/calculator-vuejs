@@ -1,4 +1,13 @@
-# calculator
+# Calculadora
+
+### Plataforma adotada
+  WEB
+  
+### Linguagem
+  JavaScript - VueJS
+  
+## Iniciar Game
+  ![](print.PNG)
 
 ## Project setup
 ```
